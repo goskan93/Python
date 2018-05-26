@@ -22,7 +22,7 @@ Train set size 914, Test set size 458 K = 5, Accuracy 1.0
 Train set size 1029, Test set size 343 K = 3, Accuracy 1.0  
 Train set size 1029, Test set size 343 K = 5, Accuracy 1.0  
   
-* Balance data set  
+* Balance dataset  
 Train set size 312, Test set size 313 K = 3, Accuracy 0.805111821086  
 Train set size 312, Test set size 313 K = 5, Accuracy 0.805111821086   
 Train set size 416, Test set size 209 K = 3, Accuracy 0.784688995215  
