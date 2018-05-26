@@ -1,5 +1,5 @@
 ### Naive Bayes Classifier
-The file present Naive Bayes Classifier written by me. 
+The file presents Naive Bayes Classifier written by me. 
 The class was testes with data sets taken from website: [Machine Learning Depository](https://archive.ics.uci.edu/ml/datasets.html)
 The algorithm is good for classification problem with categorital data. 
 
