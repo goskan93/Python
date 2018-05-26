@@ -3,7 +3,7 @@ The file present Naive Bayes Classifier written by me.
 The class was testes with data sets taken from website: [Machine Learning Depository](https://archive.ics.uci.edu/ml/datasets.html)
 
 Exemplary results:
-* Ballon data set  
+* Balloon data set  
 Train set len 10, Test set len 10, Accuracy 0.8  
 Train set len 13, Test set len 7, Accuracy 0.571428571429  
 Train set len 15, Test set len 5, Accuracy 0.8  
