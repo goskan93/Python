@@ -12,7 +12,7 @@ class KNN():
     * test_range = (int) numerator, how to split data for test and train set.
                     For example, if test_range = 3, then test_range is 1/3 of all the data.
     * sep = (str) how to split data in file; default None
-    * header = (int) no. of row with names of columns; default None
+    * header = (int) no. of row with names of columns; default " "
     * index_col = (int) no. of column with index values; default None
     * columns = (list) if there is no header in data, set the list with colomns names 
 
