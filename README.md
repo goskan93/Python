@@ -1,2 +1,2 @@
 # Data_Mining
-Here are some Data Mining Algorithms.
+Here are some Data Mining Algorithms written in Python Language.
