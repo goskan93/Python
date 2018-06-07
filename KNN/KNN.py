@@ -83,11 +83,3 @@ class KNN():
         return final_fitting
 
 
-synth_path = "/home/natalia/Dropbox/Python/DataMining/data_sets/synth.txt"
-
-Synth = KNN(k = 3, df_file = synth_path,  target_name = 'yc',  test_range = 2 , header = 0)
-
-res = Synth.result_test_set()
-print(res)
-res2 = Synth.final_fitting(res)
-print(res2)
